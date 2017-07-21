@@ -1,2 +1,2 @@
-# BG2 Excuse Generator
-For when you don't feel quite up to playing BG2.
+# Adam says stupid things
+And we made a thing to prove it.
